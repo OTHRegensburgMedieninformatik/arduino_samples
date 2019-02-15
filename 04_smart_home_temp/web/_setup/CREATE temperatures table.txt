@@ -1,0 +1,5 @@
+CREATE table temperatures (
+   timestamp timestamp NOT NULL,
+   temperature numeric NOT NULL,
+   room text
+);
